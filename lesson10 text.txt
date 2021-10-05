@@ -1,0 +1,30 @@
+<h1>My Travels</h1>
+
+<nav>
+
+	<h2>Menu</h2>
+
+	<a href = "#destinations">Destinations</a>
+
+	<a href = "#gallery">Gallery</a>
+
+</nav>
+
+<div id = "destinations">
+
+
+	<h3>Macedonia</h3>
+		
+
+	<h3>Germany</h3>
+		
+
+	<h3>Turkey</h3>
+		<img src = "https://www.hdnicewallpapers.com/Walls/Big/Countries%20and%20City/Berlin_Cathedral_in_Berlin_Germany_Travel_2018_Wallpaper.jpg" width=500 height=600>
+
+	<h3>Poland</h3>
+		<img src="https://lp-cms-production.imgix.net/2019-06/53628468.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4" alt="Image of poland" />
+
+</div>
+
+<div id = "gallery"></div>
